@@ -154,17 +154,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Inod Bandara**
-- GitHub: [@inodbandara-official](https://github.com/inodbandara-official)
+- [:octocat:](https://github.com/inodbandara-official)
+- [:mailbox_with_mail:](in.banu.ban@gmail.com)
 
 ## ⭐ Support
 
 If you find this project helpful, please consider giving it a star on GitHub!
-
-## 📚 Acknowledgments
-
-- Thanks to all contributors who have helped improve this project
-- Python community for excellent libraries
-- MySQL team for the robust database system
 
 ## 📧 Contact
 
