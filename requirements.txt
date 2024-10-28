@@ -1,0 +1,11 @@
+# Core dependencies
+mysql-connector-python>=8.0.26
+tkcalendar>=1.6.1
+bcrypt>=3.2.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.3.0
+flake8>=4.0.1
+mypy>=0.960
+python-dotenv>=0.20.0
