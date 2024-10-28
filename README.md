@@ -122,9 +122,10 @@ python attendance_system.py
 
 ```
 attendance-management-system-in-py/
-├── attendance_system.py    # Main application file
+├── attendance_system.py   # Main application file
+├── LICENSE                # MIT License file
 ├── requirements.txt       # Python dependencies
-├── README.md             # Project documentation
+├── README.md              # Project documentation
 └── database/
     └── schema.sql        # Database schema
 ```
@@ -149,13 +150,13 @@ Contributions are welcome! Here's how you can help:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **Inod Bandara**
-- [:octocat:](https://github.com/inodbandara-official)
-- [:mailbox_with_mail:](in.banu.ban@gmail.com)
+- [:octocat:](https://github.com/inodbandara-official) GitHub
+- [:mailbox_with_mail:](in.banu.ban@gmail.com) Email
 
 ## ⭐ Support
 
